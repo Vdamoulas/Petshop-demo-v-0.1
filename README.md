@@ -1,7 +1,7 @@
 # 🐾 Petshop Demo v0.1
 
 <p align="center">
-  <img src="images-banner.png" alt="Petshop Demo Banner" width="20%">
+  <img src="images-banner.png" alt="Petshop Demo Banner" width="10%">
 </p>
 
 ### 🛍️ Modern Web Demo for an Online Pet Store

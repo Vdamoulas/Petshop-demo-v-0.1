@@ -10,6 +10,11 @@ A responsive web demo for a fictional pet store — built to showcase front-end 
 Developed using **HTML**, **CSS**, and **JavaScript**, this project simulates a basic e-commerce experience with product listings and dynamic interface elements.
 
 ---
+<p align="center">
+  <img src="images/preview1.png" alt="Petshop Demo Screenshot 1" width="80%">
+  <br><br>
+  <img src="images/preview2.png" alt="Petshop Demo Screenshot 2" width="80%">
+</p>
 
 ## ✨ Features
 

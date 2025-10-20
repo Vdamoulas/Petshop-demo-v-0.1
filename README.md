@@ -11,9 +11,9 @@ Developed using **HTML**, **CSS**, and **JavaScript**, this project simulates a 
 
 ---
 <p align="center">
-  <img src="images/preview1.png" alt="Petshop Demo Screenshot 1" width="80%">
+  <img src="Header.png" alt="Petshop Demo Screenshot 1" width="10%">
   <br><br>
-  <img src="images/preview2.png" alt="Petshop Demo Screenshot 2" width="80%">
+  <img src="images/preview2.png" alt="Petshop Demo Screenshot 2" width="10%">
 </p>
 
 ## ✨ Features
